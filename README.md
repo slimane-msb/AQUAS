@@ -1,4 +1,4 @@
-# Forbidden Island: Enterprise-Grade Game Engine
+# AQUAS: A Multi-Player Game
 
 > Production-ready multiplayer strategy game showcasing advanced OOP, MVC architecture, and modern software engineering practices
 
